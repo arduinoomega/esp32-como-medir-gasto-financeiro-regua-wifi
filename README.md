@@ -4,6 +4,6 @@ Fala galera, tudo bem com vocês? Hoje vamos aprender como medir o gasto finance
 
 ![Esquema](https://lh5.googleusercontent.com/iKOyQVP4IHbdRWqXSP4KgVju2jhbhOWa3huRzkIForeW_Dvw-yMP4yTN7wOCJ6FIcO4yrAAPTHnqFzksL_bEi3iPjJuh-WQOrnqEeDQ6QNwygYYQGSmeOvHYQradPXKlh8-Q8bdY)
 
-## Veja o tutorial completo em [Blog Arduino Ômega - Como medir o gasto financeiro da régua WiFi com Esp32(https://blog.arduinoomega.com/como-medir-o-gasto-financeiro-da-regua-wifi-com-esp32/).
+## Veja o tutorial completo em [Blog Arduino Ômega - Como medir o gasto financeiro da régua WiFi com Esp32](https://blog.arduinoomega.com/como-medir-o-gasto-financeiro-da-regua-wifi-com-esp32/).
 
 ### Tutorial por [Sandro Mesquita](https://www.instagram.com/profsandromesquita/).
